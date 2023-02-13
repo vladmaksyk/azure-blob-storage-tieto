@@ -1,1 +1,0 @@
-# azure-blob-storage-tieto
